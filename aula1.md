@@ -39,3 +39,15 @@ Depois de convertido o PDF em HTML, o\(s\) arquivo\(s\) da página estática a s
 
 Quais as etapas foram realizadas para chegar neste momento
 
+
+
+```
+Instalar o Surge
+Criar conta no overleaf
+Subir arquivo zip baixado do repositório exemplo
+Modificar o arquivo .tex (atualizar o curriculo)
+Baixar PDF
+Converter PDF em HTML
+Publicar o CV
+```
+

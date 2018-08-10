@@ -13,17 +13,3 @@ description: >-
 
 
 
-Uma vez instalado, o\(s\) arquivos da página estática a ser publicada devem "subidos". Quais as etapas foram realizadas para chegar neste momento
-
-```
-Instalar o Surge
-Criar conta no overleaf
-Subir arquivo zip baixado do repositório exemplo
-Modificar o arquivo .tex (atualizar o curriculo)
-Baixar PDF
-Converter PDF em HTML
-Publicar o CV
-```
-
-
-
