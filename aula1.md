@@ -31,9 +31,27 @@ A ferramenta visual apresentada foi a Enhancv:
 
 [https://app.enhancv.com/resume/new](https://app.enhancv.com/resume/new)
 
+O editor latex Overleaf:
+
+[https://www.overleaf.com/](https://www.overleaf.com/)
+
+Para a prática foi criado um novo projeto no overleaf, importando o exemplo do seguinte repositório:
+
+[https://github.com/gbmachado/CV](https://github.com/gbmachado/CV)
+
+## Convertendo o CV
+
+Ao utilizar o overleaf foi possível gerar um PDF do CV, porém o Surge trabalha com arquivos HTML
+
+Foi utilizada a seguinte ferramenta para conversão:
+
+[https://convertio.co/pt/conversor-pdf/](https://convertio.co/pt/conversor-pdf/)
+
 ## Subindo CV
 
 Depois de convertido o PDF em HTML, o\(s\) arquivo\(s\) da página estática a ser publicada devem "subidos". 
+
+Para isso o arquivo HTML deve ser renomeado para `index.html`
 
 ## Resumo
 
