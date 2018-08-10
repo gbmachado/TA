@@ -7,16 +7,6 @@ description: >-
 
 # Material de TA
 
-## Disponibilizando o CV via Surge
-
-O Surge é uma ferramenta para "static web publishing for Front-End Developers, right from the CLI".
-
-Para instalá-lo:
-
-```
-$ npm install --global surge
-```
-
 {% hint style="info" %}
  Para saber mais, acesso este link:
 
