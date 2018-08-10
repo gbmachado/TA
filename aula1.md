@@ -29,7 +29,7 @@ Para a criação do CV, duas formas foram trabalhadas
 
 A ferramenta visual apresentada foi a Enhancv:
 
-{% embed data="{\"url\":\"https://app.enhancv.com/resume/new\",\"type\":\"link\",\"title\":\"Get the job you deserve - Enhancv\",\"description\":\"Enhancv helps you create compelling human-centric resumes that unveil the real person behind.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://app.enhancv.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://enhancv.com/images/social-image.jpg\",\"width\":1200,\"height\":627,\"aspectRatio\":0.5225}}" %}
+[https://app.enhancv.com/resume/new](https://app.enhancv.com/resume/new)
 
 ## Subindo CV
 
