@@ -7,6 +7,8 @@ description: >-
 
 # Material de TA
 
+## Aula 1 - [Disponibilizando o CV via Surge](aula1.md)
+
 {% hint style="info" %}
  Para saber mais, acesso este link:
 
