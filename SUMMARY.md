@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Material de TA](README.md)
+* [teste 3](teste-3.md)
+* [teste 2](teste-2.md)
+* [teste](teste.md)
 
