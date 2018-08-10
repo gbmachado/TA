@@ -57,6 +57,16 @@ Depois de convertido o PDF em HTML, o\(s\) arquivo\(s\) da página estática a s
 
 Para isso o arquivo HTML deve ser renomeado para `index.html`
 
+O comando para publicar o CV é:
+
+```
+$ surge -p ./desktop/cv -d cv_gbm.surge.sh
+```
+
+Onde -p aponta para o caminho onde está o `index.html`
+
+Onde -d define o subdomínio, no caso `cv_gbm`
+
 ## Resumo
 
 Quais as etapas foram realizadas para chegar neste momento
@@ -72,4 +82,8 @@ Baixar PDF
 Converter PDF em HTML
 Publicar o CV
 ```
+
+O resultado final pode ser visto em:
+
+[http://cv\_gbm.surge.sh/](http://cv_gbm.surge.sh/)
 
