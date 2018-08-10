@@ -47,6 +47,10 @@ Foi utilizada a seguinte ferramenta para conversão:
 
 [https://convertio.co/pt/conversor-pdf/](https://convertio.co/pt/conversor-pdf/)
 
+> Importante! Saber qual a pasta que foi salvo o arquivo PDF
+>
+> De preferência criar uma pasta CV no `desktop`
+
 ## Subindo CV
 
 Depois de convertido o PDF em HTML, o\(s\) arquivo\(s\) da página estática a ser publicada devem "subidos". 
