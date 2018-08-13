@@ -9,7 +9,7 @@ description: >-
 
 ## Aula 1 - [Disponibilizando o CV via Surge](aula1.md)
 
-## 
+## Aula 2 - [The R Project for Statistical Computing](the-r-project-for-statistical-computing.md)
 
 
 
