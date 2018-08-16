@@ -11,5 +11,9 @@ description: >-
 
 ## Aula 2 - [The R Project for Statistical Computing](the-r-project-for-statistical-computing.md)
 
+## Aula 3 - [Chatbot: Estudo de caso com o BLiP](chatbot-estudo-de-caso-com-o-blip.md)
+
+## Aula 6 \(turno noite\) - [DollyFlix, learn by doing](dollyflix-learn-by-doing.md)
+
 
 
