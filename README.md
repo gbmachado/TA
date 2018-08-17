@@ -13,7 +13,7 @@ description: >-
 
 ## Aula 3 - [Chatbot: Estudo de caso com o BLiP](chatbot-estudo-de-caso-com-o-blip.md)
 
-## Aula 5 - 
+## Aula 5 - [HackerRank](code-nation.md)
 
 ## Aula 6 \(turno noite\) - [DollyFlix, learn by doing](dollyflix-learn-by-doing.md)
 
