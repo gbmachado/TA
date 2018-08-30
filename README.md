@@ -19,5 +19,5 @@ description: >-
 
 ## Aula 6 \(turno noite\) - [DollyFlix, learn by doing](dollyflix-learn-by-doing.md)
 
-## Aula X \(turno manhã\) - [Visita Isobar](visita-isobar.md)
+## Aula 11 \(turno manhã\) - [Visita Isobar](visita-isobar.md)
 
