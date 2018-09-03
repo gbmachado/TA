@@ -17,6 +17,8 @@ description: >-
 
 ## Aula 5 - [HackerRank](hackerrank.md)
 
+## Aula 6 \(turno manhã\) - [Como o senac muda vida](como-o-senac-muda-vida.md)
+
 ## Aula 6 \(turno noite\) - [DollyFlix, learn by doing](dollyflix-learn-by-doing.md)
 
 ## Aula 11 \(turno manhã\) - [Visita Isobar](visita-isobar.md)

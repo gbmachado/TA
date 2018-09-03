@@ -8,4 +8,5 @@
 * [HackerRank](hackerrank.md)
 * [Node-RED](node-red.md)
 * [Visita Isobar](visita-isobar.md)
+* [Como o senac muda vida](como-o-senac-muda-vida.md)
 
