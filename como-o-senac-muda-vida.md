@@ -2,5 +2,5 @@
 description: Bate papo com Jorge Fernando Damasio Leite
 ---
 
-# Como o senac muda vida
+# Como o senac mudou minha vida
 
