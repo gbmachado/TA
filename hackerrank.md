@@ -14,6 +14,10 @@ Internacional \(mais famosa até onde eu sei\)
 
 [https://www.hackerrank.com/](https://www.hackerrank.com/)
 
+Outra sugestão de plataforma:
+
+[https://www.codewars.com/](https://www.codewars.com/)
+
 ## "Efeito colateral"
 
 Essas plataformas são usadas em processos seletivos e/ou na busca de talentos
