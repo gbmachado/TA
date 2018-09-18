@@ -9,5 +9,6 @@
 * [Node-RED](node-red.md)
 * [Visita Isobar](visita-isobar.md)
 * [Como o senac mudou minha vida](como-o-senac-muda-vida.md)
+* [Evento KingHost](evento-kinghost.md)
 * [Getnet](getnet.md)
 
