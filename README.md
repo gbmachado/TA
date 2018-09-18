@@ -21,6 +21,10 @@ description: >-
 
 ## Aula 6 \(turno noite\) - [DollyFlix, learn by doing](dollyflix-learn-by-doing.md)
 
+## Aula 7 \(turno manhã\) - [Evento KingHost](evento-kinghost.md)
+
+## Aula 7 \(turno noite\) - [Me formei, e agora?](me-formei-e-agora.md)
+
 ## Aula 8 - [Getnet](getnet.md)
 
 ## Aula 11 \(turno manhã\) - [Visita Isobar](visita-isobar.md)
