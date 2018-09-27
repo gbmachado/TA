@@ -27,5 +27,7 @@ description: >-
 
 ## Aula 8 - [Getnet](getnet.md)
 
+## Aula 10 \(turno noite\) - [Docker](docker.md)
+
 ## Aula 11 \(turno manhã\) - [Visita Isobar](visita-isobar.md)
 
