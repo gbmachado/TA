@@ -27,6 +27,8 @@ description: >-
 
 ## Aula 8 - [Getnet](getnet.md)
 
+## Aula 9 - [Conversation](conversation.md)
+
 ## Aula 10 \(turno noite\) - [JWT](jwt.md)
 
 ## Aula 11 \(turno noite\) - [Docker](docker.md)
