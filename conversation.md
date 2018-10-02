@@ -1,5 +1,5 @@
 ---
-description: Today's lecture is about how to write and/or film your resumé
+description: Today's lecture is about how to write and/or film your resume.
 ---
 
 # Conversation
