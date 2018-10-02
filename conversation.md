@@ -42,7 +42,11 @@ Prepare you own resume, write first and then make a video using your mobile devi
 
 ## Participações especiais
 
-{% embed data="{\"url\":\"https://drive.google.com/open?id=1vh7Yk6M08gkeuD6e9lIZIMdr7VaDPj8I\",\"type\":\"video\",\"title\":\"WhatsApp Video 2018-10-02 at 14.33.15.mp4\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/doclist/images/icon\_14\_video\_favicon.ico\",\"aspectRatio\":0},\"embed\":{\"type\":\"player\",\"url\":\"https://drive.google.com/file/d/1vh7Yk6M08gkeuD6e9lIZIMdr7VaDPj8I/preview\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://drive.google.com/file/d/1vh7Yk6M08gkeuD6e9lIZIMdr7VaDPj8I/preview\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0}}" %}
+
+
+[https://drive.google.com/open?id=1vh7Yk6M08gkeuD6e9lIZIMdr7VaDPj8I](https://drive.google.com/open?id=1vh7Yk6M08gkeuD6e9lIZIMdr7VaDPj8I)
+
+"Hey everyone I'm Thiago Almeida, I'm a senior software engineer here at Microsoft in Redmond, you can see I'm at work today just stepped outside to record this video for you. And I, uh, just wanted to tell you I studied Computer Science in Florianopolis and I have been with Microsoft for about eight years now and I just wanted to send you this motivational video so that you can apply yourselves, learn english..." - [https://www.linkedin.com/in/thiagoalmeidaprofile/](https://www.linkedin.com/in/thiagoalmeidaprofile/)
 
 {% file src=".gitbook/assets/whatsapp-video-2018-10-02-at-12.04.45.mp4" caption="https://www.linkedin.com/in/victorhg/" %}
 
