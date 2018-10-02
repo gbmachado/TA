@@ -30,7 +30,7 @@ Guilherme Resume:
 >
 > My other passions: Brasil de Pelotas, Travelling, Rock, Poker, Barbecue and, of course, Beer.
 >
-> My main contact is gbertonimachado@gmail.com
+> My email is gbertonimachado@gmail.com, please fell free to contact me.
 
 Video:
 
