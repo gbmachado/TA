@@ -28,7 +28,9 @@ Guilherme Resume:
 >
 > I helped Faculdade Senac grow from 1 to 4 tech undergraduate courses, interview, hired, managed and coached professors.
 >
-> Other passions: Brasil de Pelotas, Travelling, Rock, Poker, Barbecue and, of course, Beer.
+> My other passions: Brasil de Pelotas, Travelling, Rock, Poker, Barbecue and, of course, Beer.
+>
+> My main contact is gbertonimachado@gmail.com
 
 Video:
 
