@@ -18,6 +18,12 @@ Example
 
 Guilherme Resume:
 
+Video:
+
+[https://drive.google.com/open?id=19\_dr-Vvo\_Gt7-uB8Kpr8fjKO0w4dY1eI](https://drive.google.com/open?id=19_dr-Vvo_Gt7-uB8Kpr8fjKO0w4dY1eI)
+
+Typing de video:
+
 > Hi my name is Guilherme Bertoni Machado
 >
 > I am a 10+ years experienced College Professor and Educational Manager at Faculdade Senac Porto Alegre in Brazil.
@@ -31,8 +37,6 @@ Guilherme Resume:
 > My other passions: Brasil de Pelotas, Travelling, Rock, Poker, Barbecue and, of course, Beer.
 >
 > My email is gbertonimachado@gmail.com, please fell free to contact me.
-
-Video:
 
 
 
