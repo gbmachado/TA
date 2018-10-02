@@ -38,6 +38,10 @@ Video:
 
 Prepare you own resume, write first and then make a video using your mobile device.
 
+## Participações especiais
+
+{% file src=".gitbook/assets/whatsapp-video-2018-10-02-at-12.04.45.mp4" caption="https://www.linkedin.com/in/victorhg/" %}
+
 ## Professional example
 
 [https://www.youtube.com/watch?v=Mo\_vRjtkgSI](https://www.youtube.com/watch?v=Mo_vRjtkgSI)
