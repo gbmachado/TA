@@ -38,3 +38,7 @@ Video:
 
 Prepare you own resume, write first and then make a video using your mobile device.
 
+## Professional example
+
+[https://www.youtube.com/watch?v=Mo\_vRjtkgSI](https://www.youtube.com/watch?v=Mo_vRjtkgSI)
+
