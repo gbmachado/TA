@@ -32,5 +32,7 @@ Guilherme Resume:
 
 Video:
 
+## Let´s do it!
 
+Prepare you own resume, write first and then make a video using your mobile device.
 
