@@ -52,7 +52,9 @@ Prepare you own resume, write first and then make a video using your mobile devi
 
 "Hey everyone I'm Thiago Almeida, I'm a senior software engineer here at Microsoft in Redmond, you can see I'm at work today just stepped outside to record this video for you. And I, uh, just wanted to tell you I studied Computer Science in Florianopolis and I have been with Microsoft for about eight years now and I just wanted to send you this motivational video so that you can apply yourselves, learn english..." - [https://www.linkedin.com/in/thiagoalmeidaprofile/](https://www.linkedin.com/in/thiagoalmeidaprofile/)
 
-{% file src=".gitbook/assets/whatsapp-video-2018-10-02-at-12.04.45.mp4" caption="https://www.linkedin.com/in/victorhg/" %}
+[https://www.linkedin.com/in/victorhg/](https://www.linkedin.com/in/victorhg/)
+
+{% file src=".gitbook/assets/whatsapp-video-2018-10-02-at-12.04.45.mp4" caption="" %}
 
 ## Professional example
 
