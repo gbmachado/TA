@@ -40,6 +40,12 @@ Tools - publish
 
 Olhar o drive
 
+## DataStudio
+
+Unlock the power of your data with interactive dashboards and beautiful reports that inspire smarter business decisions
+
+[https://datastudio.google.com](https://datastudio.google.com)
+
 ## Documentação
 
 API - [https://developers.google.com/fusiontables/](https://developers.google.com/fusiontables/)
