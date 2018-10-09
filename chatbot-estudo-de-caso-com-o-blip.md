@@ -39,7 +39,7 @@ https://api.darksky.net/forecast/[key]/[latitude],[longitude]
 
 ## Para saber mais
 
-{% embed data="{\"url\":\"https://medium.com/@ravpacheco/dentre-tantas-plataformas-por-que-o-blip-4228980dea43\",\"type\":\"link\",\"title\":\"Dentre tantas plataformas de bots, por que o BLiP ?\",\"description\":\"Apesar de não ser novo, o termo bot \(ou chatterbot, chatbot, contatos inteligentes, robôs de mensagem, entre outros…\) tem ganhado grande…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*8I-HPL0bfoIzGied-dzOvA.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/1\*hQq0yD2mdon2FRW1kdRp7Q.png\",\"width\":1364,\"height\":768,\"aspectRatio\":0.5630498533724341}}" %}
+{% embed url="https://medium.com/@ravpacheco/dentre-tantas-plataformas-por-que-o-blip-4228980dea43" %}
 
 ## Resumo
 
