@@ -29,6 +29,8 @@ description: >-
 
 ## Aula 9 - [Conversation](conversation.md)
 
+## Aula 10 \(turno manhã\) - 
+
 ## Aula 10 \(turno noite\) - [JWT](jwt.md)
 
 ## Aula 11 \(turno noite\) - [Docker](docker.md)
