@@ -4,6 +4,8 @@ description: Apresentação do Luciano Monteiro da Procergs
 
 # JWT
 
+[https://www.linkedin.com/in/lucams/](https://www.linkedin.com/in/lucams/)
+
 Monografia de especialização do Luciano
 
 [http://biblioteca.senacrs.com.br/imagens/00002E/00002ED5.pdf](http://biblioteca.senacrs.com.br/imagens/00002E/00002ED5.pdf)
