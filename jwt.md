@@ -4,6 +4,10 @@ description: Apresentação do Luciano Monteiro da Procergs
 
 # JWT
 
+Apresentação \(abrir o arquivo no navegador\)
+
+{% file src=".gitbook/assets/apresentacao.svg" %}
+
 [https://www.linkedin.com/in/lucams/](https://www.linkedin.com/in/lucams/)
 
 Monografia de especialização do Luciano
