@@ -29,7 +29,7 @@ O objetivo da aula Ã© realizar as 6 etapas do curso \(estimado em 4hs, mas que Ã
 5. **Data frames**
 6. **Lists**
 
-## Resumo {#resumo}
+## Resumo <a id="resumo"></a>
 
 Quais as etapas foram realizadas para chegar neste momento
 

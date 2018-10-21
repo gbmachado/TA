@@ -39,7 +39,7 @@ Para saber mais sobre o Node-RED, acesse este link:
 
 [https://medium.com/node-red](https://medium.com/node-red)
 
-## Criando um Dashboard {#criando-um-cv}
+## Criando um Dashboard <a id="criando-um-cv"></a>
 
 Para a instalação do módulo de Dasboard
 
@@ -62,11 +62,11 @@ Exemplo:
 1. Importar do clipboard
 2. Deploy
 
-## Mais exemplos {#subindo-cv}
+## Mais exemplos <a id="subindo-cv"></a>
 
 [http://noderedguide.com/examples/](http://noderedguide.com/examples/) 
 
-## Resumo {#resumo}
+## Resumo <a id="resumo"></a>
 
 Quais as etapas foram realizadas para chegar neste momento
 

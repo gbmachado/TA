@@ -22,7 +22,7 @@ Outra sugestão de plataforma:
 
 Essas plataformas são usadas em processos seletivos e/ou na busca de talentos
 
-## Praticando {#praticando}
+## Praticando <a id="praticando"></a>
 
 O objetivo da aula é criar um cadastro e escolher uma linguagem \(javascript, por exemplo\). Realizar as tarefas de warmup. São elas:
 
@@ -39,7 +39,7 @@ Practice -&gt; Algorithms -&gt; Warmup
 9. **Birthday Cake Candles**
 10. **Time Conversion**
 
-## Resumo {#resumo}
+## Resumo <a id="resumo"></a>
 
 Quais as etapas foram realizadas para chegar neste momento
 
