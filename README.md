@@ -37,5 +37,5 @@ description: >-
 
 ## Aula 11 \(turno manhã\) - [Visita Isobar](visita-isobar.md)
 
-## Aula 12 - 
+## Aula 12 - [Definição dos projetos](definicao-dos-projetos.md)
 
