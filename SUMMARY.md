@@ -17,4 +17,5 @@
 * [Conversation](conversation.md)
 * [Fusion Table](fusion-table.md)
 * [Definição dos projetos](definicao-dos-projetos.md)
+* [Avaliação Docente - 2018/2](avaliacao-docente-2018-2.md)
 

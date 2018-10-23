@@ -39,3 +39,5 @@ description: >-
 
 ## Aula 12 - [Definição dos projetos](definicao-dos-projetos.md)
 
+## Aula 13 - [Avaliação Docente - 2018/2](avaliacao-docente-2018-2.md)
+
