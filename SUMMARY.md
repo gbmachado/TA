@@ -19,4 +19,5 @@
 * [Definição dos projetos](definicao-dos-projetos.md)
 * [Avaliação Docente - 2018/2](avaliacao-docente-2018-2.md)
 * [Modelo de apresentação](modelo-de-apresentacao.md)
+* [Compartilhamento do conhecimento](compartilhamento-do-conhecimento.md)
 
