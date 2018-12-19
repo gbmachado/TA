@@ -21,4 +21,5 @@
 * [Modelo de apresentação](modelo-de-apresentacao.md)
 * [Compartilhamento do conhecimento](compartilhamento-do-conhecimento.md)
 * [Apresentações turno noite](apresentacoes-turno-noite.md)
+* [Apresentações turno manhã](apresentacoes-turno-manha.md)
 
