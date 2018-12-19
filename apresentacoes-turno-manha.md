@@ -13,13 +13,19 @@ Lista de projetos apresentados
 
 2 - Mariana - linguagem LUA
 
+{% file src=".gitbook/assets/mariana-linguagem-lua.pdf" %}
+
 3 - Jaquelini - gerenciador de pacotes NuGet
+
+{% file src=".gitbook/assets/jaquelini-gerenciador-de-pacotes-nuget.pdf" %}
 
 4 - João - linguagem GO
 
 {% file src=".gitbook/assets/joa-o-linguagem-go.pdf" %}
 
 5 - Suelen - mongoDB + react.js
+
+{% file src=".gitbook/assets/suelen-mongodb\_react.pdf" %}
 
 6 - Henrique - Apple ArKit
 
