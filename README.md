@@ -47,3 +47,5 @@ description: >-
 
 ## Aula 20 - [Apresentações turno noite](apresentacoes-turno-noite.md)
 
+## Aula 20 - [Apresentações turno manhã](apresentacoes-turno-manha.md)
+
