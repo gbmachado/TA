@@ -39,6 +39,10 @@ Para a prática foi criado um novo projeto no overleaf, importando o exemplo do 
 
 [https://github.com/gbmachado/CV](https://github.com/gbmachado/CV)
 
+Guia para os ícones do fontawesome:
+
+[http://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf](http://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf)
+
 ## Convertendo o CV
 
 Ao utilizar o overleaf foi possível gerar um PDF do CV, porém o Surge trabalha com arquivos HTML
@@ -85,5 +89,5 @@ Publicar o CV
 
 O resultado final pode ser visto em:
 
-[http://cv\_gbm.surge.sh/](http://cv_gbm.surge.sh/)
+[http://gbm.surge.sh/](http://gbm.surge.sh/)
 
