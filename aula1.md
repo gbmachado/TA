@@ -64,12 +64,12 @@ Para isso o arquivo HTML deve ser renomeado para `index.html`
 O comando para publicar o CV é:
 
 ```
-$ surge -p ./desktop/cv -d cv_gbm.surge.sh
+$ surge -p ./desktop/cv -d gbm.surge.sh
 ```
 
 Onde -p aponta para o caminho onde está o `index.html`
 
-Onde -d define o subdomínio, no caso `cv_gbm`
+Onde -d define o subdomínio, no caso `gbm`
 
 ## Resumo
 
