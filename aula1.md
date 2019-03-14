@@ -1,6 +1,6 @@
 ---
 description: >-
-  Atividade prática realizada na aula 1. Ao final da atividade o resultado foi a
+  Atividade prática realizada na aula 2. Ao final da atividade o resultado foi a
   publicação de um CV em uma plataforma para sites estáticos.
 ---
 
