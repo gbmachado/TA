@@ -22,44 +22,21 @@ $ npm install --global surge
 
 ## Criando um CV
 
-Para a criação do CV, duas formas foram trabalhadas
+Para a criação do CV, utilizar o arquivo modelo
 
-1. Ferramenta Visual
-2. Edição no Overleaf \(latex\)
+{% file src=".gitbook/assets/cv.zip" %}
 
-A ferramenta visual apresentada foi a Enhancv:
 
-[https://app.enhancv.com/resume/new](https://app.enhancv.com/resume/new)
 
-O editor latex Overleaf:
-
-[https://www.overleaf.com/](https://www.overleaf.com/)
-
-Para a prática foi criado um novo projeto no overleaf, importando o exemplo do seguinte repositório:
-
-[https://github.com/gbmachado/CV](https://github.com/gbmachado/CV)
-
-Guia para os ícones do fontawesome:
-
-[http://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf](http://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf)
-
-## Convertendo o CV
-
-Ao utilizar o overleaf foi possível gerar um PDF do CV, porém o Surge trabalha com arquivos HTML
-
-Foi utilizada a seguinte ferramenta para conversão:
-
-[https://convertio.co/pt/conversor-pdf/](https://convertio.co/pt/conversor-pdf/)
-
-> Importante! Saber qual a pasta que foi salvo o arquivo PDF
+> Importante! Saber qual a pasta que foi salvo o arquivo index.html e a foto
 >
 > De preferência criar uma pasta CV no `desktop`
 
 ## Subindo CV
 
-Depois de convertido o PDF em HTML, o\(s\) arquivo\(s\) da página estática a ser publicada devem "subidos". 
+Depois de editado o HTML, o\(s\) arquivo\(s\) da página estática a ser publicada devem "subidos". 
 
-Para isso o arquivo HTML deve ser renomeado para `index.html`
+Para isso o arquivo HTML deve ser  `index.html`
 
 O comando para publicar o CV é:
 
@@ -79,11 +56,8 @@ Quais as etapas foram realizadas para chegar neste momento
 
 ```
 Instalar o Surge
-Criar conta no overleaf
-Subir arquivo zip baixado do repositório exemplo
-Modificar o arquivo .tex (atualizar o curriculo)
-Baixar PDF
-Converter PDF em HTML
+Baixar o arquivo zip exemplo
+Modificar o arquivo .html (atualizar o curriculo)
 Publicar o CV
 ```
 
