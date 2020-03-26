@@ -1,6 +1,6 @@
 ---
 description: >-
-  Atividade prática realizada na aula 2. Ao final da atividade o resultado foi a
+  Atividade prática realizada na aula 4. Ao final da atividade o resultado foi a
   publicação de um CV em uma plataforma para sites estáticos.
 ---
 
@@ -24,7 +24,7 @@ $ npm install --global surge
 
 Para a criação do CV, utilizar o arquivo modelo
 
-{% file src=".gitbook/assets/cv.zip" %}
+{% file src=".gitbook/assets/cv \(1\).zip" caption="CV Guilherme" %}
 
 
 
